@@ -1,0 +1,11 @@
+#tt-data-form{width:100%;max-width:none;margin:0;padding:0;box-sizing:border-box}
+#tt-data-form .tt-field{margin:12px 0}
+#tt-data-form label{display:block;font-size:14px;color:#111;margin-bottom:6px}
+#tt-data-form input{width:100%;padding:10px 12px;border:1px solid #ddd;border-radius:4px;background:#fff;box-sizing:border-box;font-size:16px;outline:none}
+#tt-data-form input:focus{border-color:#111}
+#tt-data-form button[type=submit]{width:100%;padding:12px 14px;background:#111;color:#fff;border:0;border-radius:4px;font-size:16px;cursor:pointer}
+#tt-data-form button[type=submit]:hover{background:#000}
+#tt-data-form .tt-note{font-size:12px;color:#666;margin-top:8px}
+#tt-data-form .tt-alert{padding:12px;border-radius:4px;margin:12px 0;font-size:14px}
+#tt-data-form .tt-success{background:#e6f6ea;border:1px solid #2e7d32;color:#2e7d32}
+#tt-data-form .tt-error{background:#fdecea;border:1px solid #c62828;color:#c62828}
